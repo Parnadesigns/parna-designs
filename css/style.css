@@ -974,4 +974,16 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0;
 }
 
+
+.primary-proj-image {
+  /*600x461*/
+  max-width: 600px;
+  max-height: 461px;
+}
+
+.sec-proj-image {
+  max-width: 291px;
+  max-height: 364px;
+}
+
 /*# sourceMappingURL=style.css.map */
